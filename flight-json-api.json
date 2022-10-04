@@ -1,0 +1,136 @@
+{
+  "flights":[
+   
+  {
+    "id": 0,
+      "flightCompany": "Turkish Airlines",
+    "flightNumber": "TK2220",
+     "flightTitle":"07:00 IST -> 08:40 GZT ", 
+    "departAirport": "Istanbul, Sabiha Gökçen Intl.",
+    "arrivalAirport": "Gaziantep, Oğuzeli Intl.",
+    "departDate": "07:00",
+   "arrivalDate": "08:40",
+    "day":"05 Nov 2022, Saturday",
+    "price": "850 TL",
+"image":"https://images.squarespace-cdn.com/content/v1/56b368c101dbae7dc58f48f9/1581479148835-9M5TOM0DRUKWBSLNO4BP/turkish_airlines_logo_wordmark.jpg"
+  },
+     {
+    "id": 1,
+      "flightCompany": "Pegasus",
+    "flightNumber": "PC2408",
+       "flightTitle":"19:30 IST -> 21:05 GZT ",  
+    "departAirport": "Istanbul, Sabiha Gökçen Intl.",
+    "arrivalAirport": "Gaziantep, Oğuzeli Intl.",
+    "departDate": "19:30",
+    "arrivalDate": "21:05",
+    "day":"05 Nov 2022, Saturday",
+    "price": "889 TL",
+    "image":"https://www.bagimsizhavacilar.com/wp-content/uploads/2019/12/pegasusneo320.jpg"
+  },
+     {
+    "id": 2,
+      "flightCompany": "AnadoluJet",
+    "flightNumber": "TK3272",
+    "flightTitle":"23:55 IST -> 01:15 KYIV ",  
+    "departAirport": "Istanbul, Sabiha Gökçen Intl.",
+    "arrivalAirport": "Kyiv, Boryspil Intl.",
+    "departDate": "23:55",
+    "arrivalDate": "01:15",
+    "day":"08 Nov 2022, Saturday",
+    "price": "1153 TL",
+"image":"https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1776000/kiev-1777231.jpg"
+  },
+     {
+    "id": 3,
+      "flightCompany": "AnadoluJet",
+    "flightNumber": "TK7276",
+    "flightTitle":"22:15 IST -> 23:55 GZT ",  
+    "departAirport": "Istanbul, Sabiha Gökçen Intl.",
+    "arrivalAirport": "Gaziantep, Oğuzeli Intl.",
+    "departDate": "22:15",
+    "arrivalDate": "23:55",
+    "day":"05 Nov 2022, Saturday",
+    "price": "912 TL",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMkc_ZRY3STQvdJ8w4l1NuQ85ebwGYg_wqg&usqp=CAU"
+  },
+  {
+    "id": 4,
+      "flightCompany": "Qatar Airways",
+    "flightNumber": "QR806",
+    "flightTitle":"13:45 IST -> 18:15 TYO",  
+    "departAirport": "Istanbul Airport",
+    "arrivalAirport": "Tokyo, Narita Intl.",
+    "departDate": "13:45",
+    "arrivalDate": "18:15",
+    "day":"16 Dec 2022, Friday",
+    "price": "18.950 TL",
+    "image":"https://wallpaperaccess.com/full/8128372.jpg"
+  },
+  {
+    "id": 5,
+      "flightCompany": "Air Canada",
+    "flightNumber": "AC6729",
+    "flightTitle":"20:30 IST -> 14:25 YTO",  
+    "departAirport": "Istanbul Airport",
+    "arrivalAirport": "Toronto, Lester B. Pearson Intl. ",
+    "departDate": "20:30",
+    "arrivalDate": "14:25",
+    "day":"10 Jan 2023, Tuesday",
+    "price": "15.350 TL",
+    "image":"https://www.youtooproject.com/wp-content/uploads/2021/10/Parlamento-de-Canada-Ottawa-Canada-1704x1000.jpg"
+  },
+      {
+    "id": 6,
+      "flightCompany": "Pegasus",
+    "flightNumber": "PC24895",
+       "flightTitle":"19:30 IST -> 21:05 AYT",  
+    "departAirport": "Istanbul, Sabiha Gökçen Intl.",
+    "arrivalAirport": "Antalya, Antalya Intl.",
+    "departDate": "19:30",
+    "arrivalDate": "21:05",
+    "day":"05 Nov 2022, Saturday",
+    "price": "1230 TL",
+    "image":"https://www.bagimsizhavacilar.com/wp-content/uploads/2019/12/pegasusneo320.jpg"
+  },
+     {
+    "id": 7,
+      "flightCompany": "Turkish Airlines",
+    "flightNumber": "TK2289",
+     "flightTitle":"08:00 IST -> 08:40 ESB", 
+    "departAirport": "Istanbul, Sabiha Gökçen Intl.",
+    "arrivalAirport": "Ankara, Esenboga Intl.",
+    "departDate": "08:00",
+   "arrivalDate": "08:40",
+    "day":"22 Nov 2022, Saturday",
+    "price": "689 TL",
+"image":"https://images.squarespace-cdn.com/content/v1/56b368c101dbae7dc58f48f9/1581479148835-9M5TOM0DRUKWBSLNO4BP/turkish_airlines_logo_wordmark.jpg"
+  },
+     {
+    "id": 8,
+      "flightCompany": "AnadoluJet",
+    "flightNumber": "TK720023",
+    "flightTitle":"22:15 ESB -> 23:55 GZT",  
+    "departAirport": "Ankara, Esenboga Intl.",
+    "arrivalAirport": "Gaziantep, Oğuzeli Intl.",
+    "departDate": "22:15",
+    "arrivalDate": "23:55",
+    "day":"05 Nov 2022, Saturday",
+    "price": "912 TL",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMkc_ZRY3STQvdJ8w4l1NuQ85ebwGYg_wqg&usqp=CAU"
+  },
+     {
+    "id": 9,
+      "flightCompany": "Turkish Airlines",
+    "flightNumber": "TK28920",
+     "flightTitle":"07:55 ADB -> 08:40 GZT", 
+    "departAirport": "Izmir, Adnan Menderes Intl.",
+    "arrivalAirport": "Gaziantep, Oğuzeli Intl.",
+    "departDate": "07:00",
+   "arrivalDate": "08:40",
+    "day":"05 Nov 2022, Saturday",
+    "price": "850 TL",
+"image":"https://images.squarespace-cdn.com/content/v1/56b368c101dbae7dc58f48f9/1581479148835-9M5TOM0DRUKWBSLNO4BP/turkish_airlines_logo_wordmark.jpg"
+  }
+  ]
+  
+}
