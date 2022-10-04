@@ -1,0 +1,86 @@
+{
+  "hotels":[
+    {
+      "id": 0,
+    "name": "Hilton Istanbul Bomonti Hotel & Conference Center",
+    "description": "Enjoy contemporary luxury at Hilton Istanbul Bomonti Hotel & Conference Center, the largest of its kind in the city. Located in the central area of Sisli, adjacent to the former Bomonti Beer Factory, which is today’s new entertainment hub, this impressive, 34-story hotel offers easy access to many Istanbul attractions, historical buildings, shopping malls and neighboring business districts.",
+   "price": "5750 TL",
+    "address": " Silahsor Cad. No: 42, Bomonti-Sisli, Istanbul 34381, Turkey",
+"image":"https://lh5.googleusercontent.com/p/AF1QipOb3EPe8cMPk2UxTzuxexO-RCWsvDIqib-zxcsw=w253-h181-k-no"
+  },
+  {
+    "id": 1,
+    "name": "Divan İstanbul",
+    "description": "Taksim Meydanı ve İstiklal Caddesi'nin yanı başında yer alan ve İstanbul'un büyük iş merkezlerine kısa bir yürüyüşle ulaşabileceğiniz Divan İstanbul, güzel konumuyla iş seyahatlerinin yanında tarih ve kültür gezileri için de tercih ediliyor. ",
+   "price": "6500 TL",
+    "address": " Harbiye, Şişli, İstanbul",
+"image":"https://lh5.googleusercontent.com/proxy/DVyZiDzsnMyS8-wpO4KgaLlvqS_N53j4DhXRTGjThbrTPMeRYzRxzOAzZhWi84HGjdsWSFIZFqVCPBCQ-0S4Q3zrdesGS2Uk1rkwpOS8aLR-nIdVooCi-aa4DROfrqrUEswWrO0fS9XBwGJCHCUnKHfttWeiQ3w=w253-h309-k-no"
+  },
+  {
+     "id": 2,
+    "name": "Isg Sabiha Gökçen Airport Hotel",
+    "description": "With a stay at ISG Sabiha Gokcen Airport Hotel - Special Class in Istanbul (Pendik), you'll be a 3-minute drive from World Atlantis AVM and 9 minutes from Neomarin Shopping Mall. Featured amenities include a 24-hour business center, dry cleaning/laundry services, and a 24-hour front desk. This hotel has 4 meeting rooms available for events. A roundtrip airport shuttle is complimentary (available 24 hours).",
+   "price": "2213 TL",
+    "address": "Istanbul Sabiha Gokcen Int'l Airport, Istanbul 34912, Turkey",
+"image":"https://lh3.googleusercontent.com/proxy/hM2QkEBBExVbEL-Sfm6yESZYZ4byO5THgcUqYf2Wn7-BHil63VvOVFxQizX15IAQJJZCqflZ60vSnSGxvlcx8EoIVWhh2jnFFbbQRMQsHIMgckME_fjZQmJgn40dzx3eIVyZYndKFfaw2ldB39-839eAERcP2g=w253-h168-k-no"
+  },
+{
+   "id": 3,
+    "name": "Hotel Sapphire",
+    "description": "Located in Istanbul (Fatih), Hotel Sapphire is within a 10-minute walk of The Egyptian Bazaar and Topkapi Palace. Featured amenities include a business center, limo/town car service, and express check-in. For a surcharge, guests may use a roundtrip airport shuttle (available 24 hours) and a ferry terminal shuttle.",
+   "price": "7321 TL",
+    "address": "Ibnikemal Caddesi No:14 Sirkeci, Istanbul, Turkey",
+"image":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/135677259.jpg?k=c90ac8136c51dd161ab85ddd824ac97135448a48abca7d41b338bc3cd2d40a30&o=&hp=1"
+  },
+    {
+       "id": 4,
+    "name": "Dedeman Istanbul",
+    "description": "Dedeman İstanbul'un tümü modern oda ve süitleri, sıcak renklerle dekore edilmiştir. Hepsinde uydu TV, ücretsiz su ve çay-kahve yapma imkanı, banyolarında ise ilave konfor için bornoz ve terlikler mevcuttur. Otel genelinde Wi-Fi erişimi ücretsizdir. Konuklar hidromasajlı küvet ve modern bir spor salonu bulunan Life Style Health Club'ın keyfini çıkarabilirler. Çeşitli masajlar da yaptırabilirler.",
+   "price": "4258 TL",
+    "address": "Gayrettepe, Beşiktaş, İstanbul",
+"image":"https://cdn2.setur.com.tr/image/hotel/large/dedeman-hotel-istanbul-genel-9e542a76-9204-4d5d-bbfd-c03497bc878f.jpeg"
+  },
+       {
+          "id": 5,
+    "name": "Ramada Hotel & Suites Şişli by Wyndham",
+    "description": "Viento Wellness & Spa Centre'da tibbi masaj, Bali masaji ve sicak tas masaji gibi rahatlatici masajlarla kendiniz simartabilirsiniz. Otelin zengin kahvalti büfesi sehirde yogun bir güne baslamak için idealdir. Ramada Hotel & Suites Sisli by Wyndham'in hiçbirinde sigara içilmeyen odalarinda klima, uydu TV, telefon, dizüstü bilgisayar kasasi, minibar ve ütü olanaklari bulunmaktadir. Özel banyolarda dus, saç kurutma makinesi, bornoz ve ücretsiz banyo malzemeleri mevcuttur.",
+   "price": "6892 TL",
+    "address": "Sisli, Istanbul",
+"image":"https://imgkit.otelz.com/turkiye/istanbul/sisli/ramada-hotelsuites-sisli-by-wyndham-f070060b.png?tr=w-630,h-414,fo-auto"
+  },
+          {
+             "id": 6,
+    "name": "The Green Park Pendik",
+    "description": "Pendik ilçesinin merkezinde yer alanThe Green Park Pendik Hotel & Convention Center, LCD TV ve yağmur duş içeren lüks odalar sunmaktadır. Oteldeki olanaklar arasında kapalı ve açık yüzme havuzları yer almaktadır. The Green Park Pendik Hotel & Convention Center'daki tüm odalarda klima, uydu TV ve minibar vardır. Bazı odalarda Marmara Denizi manzarasına sahip özel bir spa küveti mevcuttur.",
+   "price": "5890 TL",
+    "address": "Merkez, Pendik, İstanbul",
+"image":"https://imgkit.otelz.com/turkiye/istanbul/pendik/the-green-park-pendik-hotel-convention-center-19165145.jpg?tr=w-630,h-414,fo-auto"
+  },
+       {
+          "id": 7,
+    "name": "Hotel Suadiye",
+    "description": "Mükemmel konumu ile terasından denizi ve Prens Adaları'nı saatlerce izleyebilir, izlerken de bir şey atıştırabilirsiniz. Otelde sauna, spor merkezi tüm misafirlerin kullanımına açıktır. Tesisin ücretsiz Wi-Fi erişimli internet ağı tüm ortak kullanım alanlarında ve tüm odalarda sağlanmıştır",
+   "price": "5890 TL",
+    "address": "Suadiye, Kadiköy, İstanbul",
+"image":"https://imgkit.otelz.com/turkiye/istanbul/kadikoy/hotel-suadiye-1430106617.JPG?tr=w-630,h-414,fo-auto"
+  },
+      {
+          "id": 8,
+    "name": "Elite World Asia Hotel",
+    "description": "Kısa süreli veya uzun süreli konaklamaların her ikisinde de tercih edebileceğiniz Elite World Asia Hotel, İnönü Caddesi, Küçükyalı'da konumlanır. Tesiste ücretsiz internet erişimine sahip olabileceksiniz. Bu sayede sosyal medyada rahatlıkla gezinebilecek, internetten işlerinizi halledebilecek, maillerinizi kontrol edebileceksiniz. İş için İstanbul'da bulunanların da rahatlıkla konaklayabileceği bir tesistir ve toplantı odası bulunmaktadır.",
+   "price": "9852 TL",
+    "address": "Küçükyali, Maltepe, İstanbul",
+"image":"https://imgkit.otelz.com/turkey/istanbul/maltepe/eliteworldasiahotel6d40ff85.jpg?tr=w-630,h-414,fo-auto"
+  },
+    {
+          "id": 9,
+    "name": "Tryp by Wyndham İstanbul Sancaktepe",
+    "description": "Tryp by Wyndham Sancaktepe, 13 Executve Oda (Balkonlu), 15 Comfort oda, 5 Deluxe oda, 2 Connection oda, 2 Suit oda 1+1, 95 Standart oda 10 Aile Oda seçenekleri ile 141 oda ile hizmet vermektedir.",
+   "price": "9852 TL",
+    "address": "Sancaktepe, İstanbul",
+
+"image":"https://imgkit.otelz.com/turkiye/istanbul/sancaktepe/tryp-by-wyndham-istanbul-sancaktepe-c4ce0b97.jpg?tr=w-630,h-414,fo-auto"
+  }
+  ]
+  
+}
