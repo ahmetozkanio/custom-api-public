@@ -7,20 +7,7 @@
         "tools": "Flutter, Figma",
         "date": "2022",
         "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "images":[
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            }
-        ]
+        "images": "https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png
     },
     {
         "project_name": "Travel App",
@@ -29,21 +16,8 @@
         "tools": "Flutter, Figma",
         "date": "2022",
         "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "images":[
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            }
-        ]
-    },
+        "images": "https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png
+    },    
     {
         "project_name": "Travel App",
         "project_description": "Travel app projesi aciklamasi",
@@ -51,65 +25,9 @@
         "tools": "Flutter, Figma",
         "date": "2022",
         "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "images":[
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            }
-        ]
-    },
-    {
-        "project_name": "Travel App",
-        "project_description": "Travel app projesi aciklamasi",
-        "category":"Web",
-        "tools": "Flutter, Figma",
-        "date": "2022",
-        "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "images":[
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            }
-        ]
-    },
-    {
-        "project_name": "Travel App",
-        "project_description": "Travel app projesi aciklamasi",
-        "category":"Web",
-        "tools": "Flutter, Figma",
-        "date": "2022",
-        "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "images":[
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            }
-        ]
-    },
+        "images": "https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png
+    }
+        ,
     {
         "project_name": "Travel App",
         "project_description": "Travel app projesi aciklamasi",
@@ -117,64 +35,16 @@
         "tools": "Flutter, Figma",
         "date": "2022",
         "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "images":[
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            }
-        ]
-    },
+        "images": "https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png
+    },    
     {
         "project_name": "Travel App",
         "project_description": "Travel app projesi aciklamasi",
-        "category":"Desktop",
+        "category":"Mobile",
         "tools": "Flutter, Figma",
         "date": "2022",
         "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "images":[
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            }
-        ]
-    },
-    {
-        "project_name": "Travel App",
-        "project_description": "Travel app projesi aciklamasi",
-        "category":"Web",
-        "tools": "Flutter, Figma",
-        "date": "2022",
-        "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "images":[
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            },
-            {
-                "image_url":"https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png"
-            }
-        ]
+        "images": "https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/main/assets/screenshots/onboard1.png
     }
 ]
 }
