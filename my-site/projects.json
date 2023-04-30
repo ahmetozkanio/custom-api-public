@@ -1,51 +1,126 @@
-{ 
-    "projects" : [
-    {
-        "project_name": "Travel App",
-        "project_description": "Travel app projesi aciklamasi",
-        "category":"Mobile",
-        "tools": "Flutter, Figma",
-        "date": "2022",
-        "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/travel-guide.png"
-    },
-    {
-        "project_name": "Travel App",
-        "project_description": "Travel app projesi aciklamasi",
-        "category":"Mobile",
-        "tools": "Flutter, Figma",
-        "date": "2022",
-        "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/travel-guide.png"
-    },    
-    {
-        "project_name": "Travel App",
-        "project_description": "Travel app projesi aciklamasi",
-        "category":"Mobile",
-        "tools": "Flutter, Figma",
-        "date": "2022",
-        "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/travel-guide.png"
-    }
-        ,
-    {
-        "project_name": "Travel App",
-        "project_description": "Travel app projesi aciklamasi",
-        "category":"Mobile",
-        "tools": "Flutter, Figma",
-        "date": "2022",
-        "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/travel-guide.png"
-    },    
-    {
-        "project_name": "Travel App",
-        "project_description": "Travel app projesi aciklamasi",
-        "category":"Mobile",
-        "tools": "Flutter, Figma",
-        "date": "2022",
-        "github": "https://github.com/ahmetozkanio/travel-app-flutter",
-        "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/travel-guide.png"
-    }
-]
+{
+    "projects": [
+        {
+            "project_name": "Travel Guide App - Swift",
+            "project_description": "It is an application that lists project articles, hotels and flights, and saves them as bookmarks. It can also be searched. These are drawn and displayed with the API.",
+            "date": "2022",
+            "github": "https://github.com/ahmetozkanio/travel-guide-app-mvvm-fmss-patika-graduation-project",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/travel-guide-swift.png",
+            "readme": "https://raw.githubusercontent.com/ahmetozkanio/travel-guide-app-mvvm-fmss-patika-graduation-project/master/README.md",
+            "tools": [
+                {
+                    "id": "ios"
+                },
+                {
+                    "id": "swift"
+                }
+            ]
+        },
+        {
+            "project_name": "Travel App - Flutter",
+            "project_description": "The design was taken for free from figma and coded as a dynamic project with flutter.",
+            "date": "2022",
+            "github": "https://github.com/ahmetozkanio/travel-app-flutter",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/travel-app-flutter.png",
+            "readme": "https://raw.githubusercontent.com/ahmetozkanio/travel-app-flutter/master/README.md",
+            "tools": [
+                {
+                    "id": "flutter"
+                },
+                {
+                    "id": "figma"
+                }
+            ]
+        },
+        {
+            "project_name": "Barber Appointment App - Android - Firebase",
+            "project_description": "It is a barber appointment application coded in Java. I performed login and firestore operations with Firebase. I made the design with AdobeXD",
+            "date": "2021",
+            "github": "https://github.com/ahmetozkanio/Berber-Randevu-Android-Java",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/barber-appointment-android.png",
+            "readme": "https://raw.githubusercontent.com/ahmetozkanio/Bitki_Bilgi_Sistemi_AndroidStudio/master/README.md",
+            "tools": [
+                {
+                    "id": "android"
+                },
+                {
+                    "id": "firebase"
+                },
+                {
+                    "id": "adobexd"
+                }
+            ]
+        },
+        {
+            "project_name": "Student Attendance Analysis & Course Platform - Flutter",
+            "project_description": "The application that I use the data through the API with the backend we created with Django. It is an application where polling is taken with a QR code camera and many transactions are made.",
+            "date": "2021",
+            "github": "https://github.com/ahmetozkanio/student_project_bitirme_flutter",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/student-flutter.png",
+            "readme": "https://raw.githubusercontent.com/ahmetozkanio/student_project_bitirme_flutter/master/README.md",
+            "tools": [
+                {
+                    "id": "flutter"
+                },
+                {
+                    "id": "django"
+                }
+            ]
+        },
+        {
+            "project_name": "Plant Information System - Android & Php backend",
+            "project_description": "The application is a mobile project where information on 395 plants is displayed. The application can be used as apk. It is a project ready to be uploaded to google play store.",
+            "date": "2021",
+            "github": "https://github.com/ahmetozkanio/Bitki_Bilgi_Sistemi_AndroidStudio",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/plant-info-android.png",
+            "readme": "https://raw.githubusercontent.com/ahmetozkanio/Bitki_Bilgi_Sistemi_AndroidStudio/master/README.md",
+            "tools": [
+                {
+                    "id": "android"
+                },
+                {
+                    "id": "adobexd"
+                }
+            ]
+        },
+        {
+            "project_name": "Student Attendance Analysis & Course Platform - Django Full-Stack",
+            "project_description": "My project is student engagement analysis, a system where a student and teacher can follow their lessons. Designed for web and mobile. On the web side, django framework and admin panel were used. On the mobile side, flutter was used. Communication on the mobile side was provided via API with django rest framework. Flutter, django, bootstrap, css, html, jquery, websocket, redis, channels, django-rest-framework, qrcode, jwt, auth etc",
+            "date": "2021",
+            "github": "https://github.com/ahmetozkanio/student_project_bitirme_django",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/student-django.png",
+            "readme": "https://raw.githubusercontent.com/ahmetozkanio/student_project_bitirme_django/master/README.md",
+            "tools": [
+                {
+                    "id": "django"
+                }
+            ]
+        },
+        {
+            "project_name": "Furniture Store Full-Stack Design - Django - AWS S3 Bucket - Heroku",
+            "project_description": "It is a full-stack furniture store project with Django. Front-end everything is used dynamically. Management with admin panel. There are features such as language feature, products, about, fairs, contact. Django 4.1.2 with Admin Panel | Python 3.10.8 | AWS S3 Bucket | Heroku etc Bootstrap 5|4 | CSS | LESS | HTML | JavaScript etc. Language EN|TR",
+            "date": "2022",
+            "github": "https://github.com/ahmetozkanio/furniture-store-full-stack-django",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/furniture-django.png",
+            "readme": "https://raw.githubusercontent.com/ahmetozkanio/furniture-store-full-stack-django/master/README.md",
+            "tools": [
+                {
+                    "id": "django"
+                }
+            ]
+        },
+        {
+            "project_name": "Plant Information System with Admin Panel - JavaFX",
+            "project_description": "Application The information of 395 plants is displayed and information crud operations are performed with the admin panel. JavaFX, CSS, SceneBuilder.",
+            "date": "2021",
+            "github": "https://github.com/ahmetozkanio/Plant_Information_System_JavaFx",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/plant-info-javafx.png",
+            "readme": "https://raw.githubusercontent.com/ahmetozkanio/Plant_Information_System_JavaFx/master/README.md",
+            "tools": [
+                {
+                    "id": "java"
+                }
+            ]
+        }
+    ]
 }
-
