@@ -1,9 +1,11 @@
 {
   "username" : "ahmetozkanio",
-  "title" : "iOS && Flutter Developer",
+  "title" : "iOS and Flutter Developer",
   "firstName" : "Ahmet",
   "lastName" : "OZKAN",
-  "description" : "Description",
+  "description" : "Hi 👋, I'm Ahmet Ozkan, I'm working on Mobile Applications I'm a computer engineering graduate. I'm currently developing flutter and ios applications.❤️ I'm interested in web3 technologies. I take care to write my applications with a clean architecture. I make designing and taking photos. I like playing billiards and camping.",
   "profilePhoto" : "",
-  "birthday" : "5.10.99"
+  "mail": "ahmetozkanio@yahoo.com",
+  "location": "ankara",
+  "birthday" : "5/10/99"
 }
