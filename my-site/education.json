@@ -1,0 +1,12 @@
+{
+    "educations": [
+        {
+        "university" : "Iskenderun Technical University",
+        "licence" : "Computer Engineering",
+        "startDate" : "2018",
+        "endDate" : "2022",
+        "location": "Iskenderun, Turkey",
+        "graduate": "3.2/4"
+        }   
+    ]
+}
