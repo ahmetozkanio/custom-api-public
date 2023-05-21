@@ -6,7 +6,8 @@
         "startDate" : "12-2022",
         "endDate" : "Present",
         "location": "Ankara, Turkey",
-        "locationType": "Hybrid"
+        "locationType": "Hybrid",
+        "logo": "sebit"
         },   
         {
         "company" : "Iskenderun Technical University",
@@ -14,7 +15,8 @@
         "startDate" : "02-2022",
         "endDate" : "06-2022",
         "location": "Turkey",
-        "locationType": "On-site"
+        "locationType": "On-site",
+        "logo": "iste"
         }   
     ]
 }
