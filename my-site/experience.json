@@ -3,18 +3,20 @@
         {
         "company" : "SEBIT Education and Information Technologies Inc.",
         "title" : "iOS Developer",
-        "startDate" : "12-2022",
+        "startDate" : "12/2022",
         "endDate" : "Present",
         "location": "Ankara, Turkey",
+        "employmentType": "Full-time",
         "locationType": "Hybrid",
         "logo": "sebit"
         },   
         {
         "company" : "Iskenderun Technical University",
         "title" : "Flutter Developer (Entegrator - Long Intern)",
-        "startDate" : "02-2022",
-        "endDate" : "06-2022",
+        "startDate" : "02/2022",
+        "endDate" : "06/2022",
         "location": "Turkey",
+        "employmentType": "Full-time",
         "locationType": "On-site",
         "logo": "iste"
         }   
