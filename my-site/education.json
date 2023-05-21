@@ -6,7 +6,8 @@
         "startDate" : "2018",
         "endDate" : "2022",
         "location": "Iskenderun, Turkey",
-        "graduate": "3.2/4"
+        "graduate": "3.2/4",
+        "image":"https://iste.edu.tr/files/iste_arma.png"
         }   
     ]
 }
