@@ -1,5 +1,21 @@
 {
     "projects": [
+           {
+            "project_name": "Netflix Clone App",
+            "project_description": "The application was programmatically developed, seamlessly integrating with the TMDB API and designed to adhere to the principles of the MVVM architecture.",
+            "date": "2023",
+            "github": "https://github.com/ahmetozkanio/netflix-clone-swift-uikit",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/netflix-clone-app.png",
+            "readme": "https://raw.githubusercontent.com/ahmetozkanio/netflix-clone-swift-uikit/master/README.md",
+            "tools": [
+                {
+                    "id": "ios"
+                },
+                {
+                    "id": "swift"
+                }
+            ]
+        },
         {
             "project_name": "Travel Guide App",
             "project_description": "It is an application that lists project articles, hotels and flights, and saves them as bookmarks. It can also be searched. These are drawn and displayed with the API.",
