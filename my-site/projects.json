@@ -33,6 +33,22 @@
             ]
         },
         {
+            "project_name": "Portfolio App",
+            "project_description": "I made this project for my own website portfolio. All data in the project is provided via API. So, you can actually take this project yourself, update the API side and use it.",
+            "date": "2023",
+            "github": "https://github.com/ahmetozkanio/portfolio-app-flutter",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/portfolio-app-flutter.png",
+            "readme": "https://github.com/ahmetozkanio/portfolio-app-flutter/blob/master/README.md",
+            "tools": [
+                {
+                    "id": "ios"
+                },
+                {
+                    "id": "swift"
+                }
+            ]
+        },
+        {
             "project_name": "Travel Template App",
             "project_description": "The design was taken for free from figma and coded as a dynamic project with flutter.",
             "date": "2022",
