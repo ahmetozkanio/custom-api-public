@@ -41,10 +41,10 @@
             "readme": "https://github.com/ahmetozkanio/portfolio-app-flutter/blob/master/README.md",
             "tools": [
                 {
-                    "id": "ios"
+                    "id": "flutter"
                 },
                 {
-                    "id": "swift"
+                    "id": "figma"
                 }
             ]
         },
