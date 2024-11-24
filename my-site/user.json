@@ -1,11 +1,37 @@
 {
-  "username" : "ahmetozkanio",
-  "title" : "iOS and Flutter Developer",
-  "firstName" : "Ahmet",
-  "lastName" : "ÖZKAN",
-  "description" : "With three years of experience in mobile application development, I have undertaken freelance and professional projects involving both iOS and Flutter platforms. Specializing in iOS development throughout my career, I am presently engaged as an active iOS Developer.",
-  "profilePhoto" : "",
+  "username": "ahmetozkanio",
+  "title": "iOS and Flutter Developer",
+  "firstName": "Ahmet",
+  "lastName": "ÖZKAN",
+  "description": "With three years of experience in mobile application development, I have undertaken freelance and professional projects involving both iOS and Flutter platforms. Specializing in iOS development throughout my career, I am presently engaged as an active iOS Developer.",
+  "profilePhoto": "https://avatars.githubusercontent.com/u/65506828?s=400&u=ffc481d60828d5c04a6659a169cb68b70d259def&v=4",
   "mail": "ahmetozkanio@yahoo.com",
   "location": "ankara",
-  "birthday" : "5/10/99"
+  "birthday": "5/10/99",
+  "socialAccounts": [
+    {
+      "account": "linkedin",
+      "url": "https://www.linkedin.com/in/ahmetozkanio"
+    },
+    {
+      "account": "appstore",
+      "url": "https://apps.apple.com/us/developer/ahmet-ozkan/id1772304555"
+    },
+    {
+      "account": "github",
+      "url": "https://www.github.com/ahmetozkanio"
+    },
+    {
+      "account": "medium",
+      "url": "https://www.medium.com/@ahmetozkanio"
+    },
+    {
+      "account": "x",
+      "url": "https://www.x.com/@ahmetozkanio"
+    },
+    {
+      "account": "instagram",
+      "url": "https://www.instagram.com/ahmetozkanio"
+    }
+  ]
 }
