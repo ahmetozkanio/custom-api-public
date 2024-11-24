@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "project_name": "Habitio",
+            "project_description": "",
+            "date": "2024",
+            "thumbnail": "https://raw.githubusercontent.com/ahmetozkanio/custom-api-public/main/my-site/images/indie-apps/habitio.png",
+            "app_store": "https://apps.apple.com/app/habitio-focus-track-habits/id6736531215",
+            "play_store": ""
+        }
+    ]
+}
